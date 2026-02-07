@@ -1,6 +1,6 @@
 # Cascade Alignment and Group-Based Fusion for Multi-Focus Images with Severe Geometric Misalignment
 
-Official MATLAB implementation of the FHFN framework.
+Official MATLAB implementation of the paper framework.
 
 > ### 📢 Journal Submission Notice
 > This repository is the official implementation for the manuscript currently submitted to **The Visual Computer**. 
